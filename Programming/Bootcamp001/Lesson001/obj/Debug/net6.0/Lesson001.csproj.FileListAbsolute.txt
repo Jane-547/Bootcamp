@@ -1,0 +1,15 @@
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.csproj.AssemblyReference.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.GeneratedMSBuildEditorConfig.editorconfig
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.AssemblyInfoInputs.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.AssemblyInfo.cs
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.csproj.CoreCompileInputs.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\bin\Debug\net6.0\Lesson001.exe
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\bin\Debug\net6.0\Lesson001.deps.json
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\bin\Debug\net6.0\Lesson001.runtimeconfig.json
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\bin\Debug\net6.0\Lesson001.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\bin\Debug\net6.0\Lesson001.pdb
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\refint\Lesson001.dll
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.pdb
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\Lesson001.genruntimeconfig.cache
+c:\Рабочая папка\Женя\Личное\1. Учеба\GeekBrains\Bootcamp\Bootcamp\Programming\Bootcamp001\Lesson001\obj\Debug\net6.0\ref\Lesson001.dll
